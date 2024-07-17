@@ -1,0 +1,19 @@
+{
+    "pontuacoes": {
+      "pontuacao_autoridade": 20,
+      "pontuacao_termos": 5,
+      "pontuacao_tags": {
+        "title": 20,
+        "meta": 20,
+        "h1": 15,
+        "h2": 10,
+        "p": 5,
+        "a": 2
+      },
+      "penalidade_autoreferencia": -20,
+      "pontuacao_frescor": {
+        "por_ano": 5,
+        "limite_maximo": 30
+      }
+    }
+  }
