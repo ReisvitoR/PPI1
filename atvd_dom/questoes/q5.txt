@@ -1,0 +1,5 @@
+textContent =>  quando quiser apenas manipular o texto dentro de um elemento sem precisar renderizar HTML.Define ou retorna o conteúdo de texto de um nó e de todos os seus descendentes. Ela não interpreta o conteúdo como HTML, apenas texto. Isso significa que qualquer marcação HTML será tratada como texto literal e não será renderizada como HTML.
+
+innerHTML=> quando precisar inserir ou manipular elementos HTML dentro de um elemento.Define ou retorna o conteúdo HTML de um elemento. Diferente do textContent, ela interpreta o conteúdo como HTML, permitindo que você insira marcação HTML.
+
+
